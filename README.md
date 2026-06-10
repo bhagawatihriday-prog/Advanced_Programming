@@ -1,3 +1,3 @@
-# Assignment_04
-Create a Python program using a list and dictionary to store products with name and stock quantity.
-Display all products whose stock is less than 10.
+# Assignment_05
+Create a simple React component that maintains a list of todos using useState.
+Allow the user to add a todo and display all added todos on the screen.

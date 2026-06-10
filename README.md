@@ -1,2 +1,3 @@
-# Assignment_02
-Write a c program for three different operations as stated in question 1 to analyze the space complexity.
+# Assignment_03
+Write a Java program using ArrayList to store book titles.
+Add at least 5 books and search for books whose title contains a given word
